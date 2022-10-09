@@ -1,0 +1,14 @@
+.link{
+    color: gray;
+    text-decoration: none;
+    margin-left: 10px;
+    transition: all 0.3s ease-in-out;
+
+    &:hover{
+        color: white;
+    }
+}
+
+.linkActive{
+    color: white;
+}
